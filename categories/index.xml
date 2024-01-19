@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on BananiaSoldier</title>
+    <link>https://bananiasoldier.github.io/bananiasoldier/categories/</link>
+    <description>Recent content in Categories on BananiaSoldier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2024 BananiaSoldier</copyright>
+    <atom:link href="https://bananiasoldier.github.io/bananiasoldier/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

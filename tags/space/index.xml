@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>space on BananiaSoldier</title>
+    <link>https://bananiasoldier.github.io/bananiasoldier/tags/space/</link>
+    <description>Recent content in space on BananiaSoldier</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2024 BananiaSoldier</copyright>
+    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://bananiasoldier.github.io/bananiasoldier/tags/space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first post</title>
+      <link>https://bananiasoldier.github.io/bananiasoldier/blog/postone/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bananiasoldier.github.io/bananiasoldier/blog/postone/</guid>
+      <description>This is my first post on my site</description>
+      
+    </item>
+    
+    <item>
+      <title>My first post</title>
+      <link>https://bananiasoldier.github.io/bananiasoldier/blog/posttwo/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bananiasoldier.github.io/bananiasoldier/blog/posttwo/</guid>
+      <description>This is my first post on my site</description>
+      
+    </item>
+    
+    <item>
+      <title>My first post</title>
+      <link>https://bananiasoldier.github.io/bananiasoldier/youtuber/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://bananiasoldier.github.io/bananiasoldier/youtuber/</guid>
+      <description>This is my first post on my site</description>
+      
+    </item>
+    
+  </channel>
+</rss>
